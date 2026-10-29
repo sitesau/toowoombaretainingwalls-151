@@ -1,0 +1,22 @@
+{
+  "wheel_id": 499,
+  "structure": "umbrella",
+  "slug": "toowoombaretainingwalls-151",
+  "project": "retaining-wall-builders-toowoomba-08e3e01dfff775bad2a8ef72c039c",
+  "parent_t1_ref": "toowoombaretainingwalls-010",
+  "node_role": "buffer",
+  "money_target": "toowoombaretainingwalls.com.au",
+  "primary_kw": "retaining wall builders toowoomba",
+  "intended_url": "http://retaining-wall-builders-toowoomba-08e3e01dfff775bad2a8ef72c039c.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "tier": "T2",
+  "writeback_nonce": "b690e11a6c678bdd",
+  "links": [
+    {
+      "target_url": "https://sites-e470-1.web.app/retaining-wall-builders-toowoomba-010/",
+      "anchor": "this retaining wall builders toowoomba guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
